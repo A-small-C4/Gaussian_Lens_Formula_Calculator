@@ -11,4 +11,8 @@ Image Distance - the distance between the optical center of the lens and the cam
 
 Magnification - the ratio of the height of the image to the height of the object being focused
 
+Input the Focal Length and the Object Distance  
+OR input the Focal Length and the Image Distance  
+Then press ENTER to get other values  
+
 Build passed on Visual Studio 2022, .NET Framework 4. 
