@@ -16,3 +16,5 @@ OR input the Focal Length and the Image Distance
 Then press ENTER to get other values  
 
 Build passed on Visual Studio 2022, .NET Framework 4. 
+
+Fonts: Lato by Łukasz Dziedzic
