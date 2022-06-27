@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Gaussian Lens Formula Calculator")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HP")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Gaussian Lens Formula Calculator")]
-[assembly: AssemblyCopyright("Copyright © HP 2022")]
+[assembly: AssemblyCopyright("github.com/A-small-C4/Gaussian_Lens_Formula_Calculator")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
